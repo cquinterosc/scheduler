@@ -1,4 +1,4 @@
-package com.example.demo.domain;
+package com.example.scheduler.domain;
 
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;

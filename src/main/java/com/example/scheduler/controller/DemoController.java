@@ -1,6 +1,6 @@
-package com.example.demo.controller;
+package com.example.scheduler.controller;
 
-import com.example.demo.domain.TaskSchedulerServiceImpl;
+import com.example.scheduler.domain.TaskSchedulerServiceImpl;
 
 import java.util.concurrent.TimeUnit;
 
